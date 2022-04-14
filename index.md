@@ -1,3 +1,3 @@
-# PMP Examination Notes
+# Iasa Core Notes
 
 ## Topics
